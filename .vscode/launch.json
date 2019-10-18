@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stacks_Example",
+            "request": "launch",
+            "mainClass": "stacks_example.Stacks_Example",
+            "projectName": "ClassWork_828f0d9"
+        }
+    ]
+}
