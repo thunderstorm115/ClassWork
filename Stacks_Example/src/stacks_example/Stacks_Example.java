@@ -7,7 +7,8 @@ package stacks_example;
 
 /**
  *
- * @author dennis liebenberg Student Number: QFJDGRL93
+ * @author dennis liebenberg 
+ * Student Number: QFJDGRL93
  *
  */
 public   class Stacks_Example {
